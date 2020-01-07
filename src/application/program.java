@@ -6,7 +6,6 @@ public class program {
 
 		System.out.println("Good Morning!");
 		System.out.println("Good Afternoon!");
-
+		System.out.println("Good Night");
 	}
-
 }
